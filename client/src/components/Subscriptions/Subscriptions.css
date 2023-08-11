@@ -1,0 +1,10 @@
+.subscriptions ul {
+    list-style-type: none;
+}
+
+.pagination {
+    width: auto;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+}
